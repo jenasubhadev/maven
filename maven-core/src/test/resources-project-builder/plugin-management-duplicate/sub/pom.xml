@@ -40,7 +40,7 @@ under the License.
         </plugin>
         <plugin>
           <artifactId>maven-jar-plugin</artifactId>
-          <version>0.1-stub-SNAPSHOT</version>
+          <version>3.3.0</version>
         </plugin>
         <plugin>
           <artifactId>maven-javadoc-plugin</artifactId>
