@@ -229,7 +229,7 @@ under the License.
         <plugin>
           <groupId>org.apache.maven.plugins</groupId>
           <artifactId>maven-resources-plugin</artifactId>
-          <version>2.4-SNAPSHOT</version>
+          <version>2.7</version>
         </plugin>
       </plugins>
     </pluginManagement>
