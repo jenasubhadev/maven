@@ -56,7 +56,7 @@ under the License.
     <junitVersion>3.8.1</junitVersion>
     <plexusVersion>1.0-beta-3.0.7</plexusVersion>
     <plexusInteractivityVersion>1.0-alpha-6</plexusInteractivityVersion>
-    <plexusInterpolationVersion>1.1</plexusInterpolationVersion>
+    <plexusInterpolationVersion>1.26</plexusInterpolationVersion>
     <plexusPluginManagerVersion>1.0-alpha-1</plexusPluginManagerVersion>
     <plexusUtilsVersion>1.5.8</plexusUtilsVersion>
     <plexusJetty6Version>1.6</plexusJetty6Version>
