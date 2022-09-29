@@ -45,7 +45,7 @@ under the License.
         <!-- NOTE: It's essential that this plugin is also referenced by the default lifecycle bindings -->
         <groupId>org.apache.maven.plugins</groupId>
         <artifactId>maven-resources-plugin</artifactId>
-        <version>0.1-stub-SNAPSHOT</version>
+        <version>3.3.0</version>
       </plugin>
     </plugins>
   </build>

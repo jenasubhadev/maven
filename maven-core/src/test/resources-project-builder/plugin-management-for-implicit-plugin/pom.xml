@@ -41,7 +41,7 @@ under the License.
           <!-- this checks handling of a plugin which is implicitly bound to the lifecycle -->
           <groupId>org.apache.maven.plugins</groupId>
           <artifactId>maven-resources-plugin</artifactId>
-          <version>0.1-stub-SNAPSHOT</version>
+          <version>3.3.0</version>
           <configuration>
             <pathname>passed.txt</pathname>
           </configuration>
