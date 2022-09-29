@@ -44,7 +44,7 @@ under the License.
         </plugin>
         <plugin>
           <artifactId>maven-javadoc-plugin</artifactId>
-          <version>0.1-stub-SNAPSHOT</version>
+          <version>3.4.1</version>
         </plugin>
         <plugin>
           <artifactId>maven-resources-plugin</artifactId>
