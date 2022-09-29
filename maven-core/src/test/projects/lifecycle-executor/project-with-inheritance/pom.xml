@@ -63,7 +63,7 @@ under the License.
     <plexusWebdavVersion>1.0</plexusWebdavVersion>
     <wagonVersion>1.0-beta-4</wagonVersion>
     <modelBuilderVersion>1.7-SNAPSHOT</modelBuilderVersion>
-    <mercuryVersion>1.0-alpha-6-SNAPSHOT</mercuryVersion>
+    <mercuryVersion>1.0-alpha-6</mercuryVersion>
     <mercuryMp3Version>1.0-alpha-1</mercuryMp3Version>
     <securityDispatcherVersion>1.2</securityDispatcherVersion>
     <woodstoxVersion>3.2.6</woodstoxVersion>
